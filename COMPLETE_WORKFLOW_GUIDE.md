@@ -6,13 +6,13 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    ORCHESTRATOR AGENT                            │
-│                  (Customer Support Agent)                        │
-│                                                                   │
-│  • Coordinates entire workflow                                   │
-│  • Executes kubectl commands                                     │
-│  • Manages JIRA lifecycle                                        │
-│  • Verifies fixes                                                │
+│                  K8s Service Desk Agent                         │
+│                  (Customer Support Agent)                       │
+│                                                                 │
+│  • Coordinates entire workflow                                  │
+│  • Executes kubectl commands                                    │
+│  • Manages JIRA lifecycle                                       │
+│  • Verifies fixes                                               │
 └────────────┬──────────────────────────────────┬─────────────────┘
              │                                   │
              │ Agent2Agent (A2A) Protocol        │ Agent2Agent (A2A) Protocol
